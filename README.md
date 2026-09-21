@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-This project focuses on cleaning, exploring, and visualizing employee data using Python. The analysis includes handling missing values, identifying duplicates and unusual values, performing exploratory data analysis, and creating visualizations to understand employee-related patterns,
-The graphs appear when you run the notebook in VS Code.
+This project focuses on cleaning, exploring, and visualizing employee data using Python. The analysis includes handling missing values, identifying duplicates and unusual values, performing exploratory data analysis, and creating visualizations to understand employee-related patterns.
 
 ## Tools & Technologies
 
