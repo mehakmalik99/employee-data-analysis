@@ -1,0 +1,159 @@
+EmployeeID,Name,Age,Salary,Department,JoinDate,City,PerformanceScore,Email
+52,John Larsen,50,999999.0,IT ,,Houston,9.3,john.larsen@company.com
+4,  WEI ALI  ,27,70806.93,Operations,2022-11-09,Chicago,6.5,wei.ali@company.com
+41,Zara Tanaka,56,115325.63,sales,not available,Seattle,5.0,
+32,Ingrid Chen,29,64473.18,Marketing,not available,Boston,1.6,ingrid.chen@company.com
+71,Sofia Fernandez,58,75345.48,Finance,not available,Boston,7.2,sofia.fernandez@company.com
+54,Carlos Wang,39,67394.13,HR,03/15/2020,,5.6,carlos.wang@company.com
+26,Ravi Novak,41,94777.88,Finance,2021.06.10,Miami,2.1,ravi.novak@company.com
+7,  CARLOS FERNANDEZ  ,52,107499.26,sales,not available,Miami,,carlos.fernandez@company.com
+43,Ravi Khan,55,47238.69,  Marketing,03/15/2020,CHICAGO,2.6,ravi.khan@company.com
+69,Aisha Garcia,57,-20000.0,HR,,New York,3.5,aisha.garcia@company.com
+16,Priya Patel,-5,72910.97,  Marketing,2019-02-15,Phoenix,999.0,priya.patel@company.com
+126,Ravi Petrov,57,45794.54,  Marketing,2019-06-12,Houston,9.8,ravi.petrov@company.com
+109,Zara Novak,42,104271.26,Sales,,New York,-1.0,zara.novak@company.com
+39,Fatima Brown,44,93657.78,  Marketing,not available,,3.4,fatima.brown@company.com
+102,Priya Chen,46,102098.64,IT,03/15/2020,CHICAGO,999.0,
+131,Priya Larsen,50,95095.21,Sales,not available,CHICAGO,,priya.larsen@company.com
+66,Zara Ali,25,111844.89,Marketing,not available,Chicago,,zara.ali@company.com
+42,Aisha Hussain,150,63211.84,  Marketing,2021.06.10,new york,3.3,aisha.hussain@company.com
+142,Mei Kim,31,45233.91,  Marketing,2019-01-26,New York,7.9,mei.kim@company.com
+119,Zara Wang,24,76681.49,  Marketing,,CHICAGO,-1.0,zara.wang@company.com
+90,Diego Sharma,42,83752.18,IT,2021.06.10,Phoenix,999.0,diego.sharma@company.com
+48,Liam Brown,28,88287.13,Marketing,2022-05-20,,9.3,liam.brown@company.com
+68,Sofia Khan,44,35449.51,Marketing,2022-11-07,,9.7,sofia.khan@company.com
+96,Carlos Petrov,-5,61753.44,Marketing,,Miami,,carlos.petrov@company.com
+15,Emma Hussain,21,113386.63,sales,2021.06.10,Phoenix,999.0,emma.hussain@company.com
+85,Olga Chen,0,0.0,  Marketing,03/15/2020,CHICAGO,,olga.chen@company.com
+6,Ravi Muller,52,42858.44,  Marketing,not available,,4.6,ravi.muller@company.com
+141,Sam Brown,39,0.0,HR,2021.06.10,new york,7.9,sam.brown@company.com
+146,Emma Chen,52,80927.1,Sales,not available,new york,1.4,emma.chen@company.com
+73,Fatima Larsen,34,109928.19,IT ,2021.06.10,Boston,3.8,fatima.larsen@company.com
+5,Aisha Johnson,50,119057.1,Sales,2021.06.10,Chicago,999.0,aisha.johnson@company.com
+118,Emma Fernandez,60,103949.52,Marketing,not available,Houston,4.7,emma.fernandez@company.com
+13,  GRACE ROSSI  ,48,107745.31,Sales,03/15/2020,Phoenix,5.8,grace.rossi@company.com
+15,Emma Hussain,21,113386.63,sales,2021.06.10,Phoenix,999.0,emma.hussain@company.com
+25,Ravi Brown,59,64667.59,Sales,,Phoenix,4.3,ravi.brown@company.com
+93,Aisha Kim,43,34793.12,sales,2021.06.10,Chicago,-1.0,aisha.kim@company.com
+74,Carlos Wang,25,38390.71,IT,,CHICAGO,7.0,carlos.wang@company.com
+9,Diego Novak,33,,Operations,2021.06.10,Phoenix,999.0,diego.novak@company.com
+28,Diego Wang,31,55540.78,HR,2019-05-17,New York,3.2,diego.wang@company.com
+115,Fatima Garcia,27,101540.75,Operations,not available,Miami,1.4,fatima.garcia@company.com
+134,  FATIMA SHARMA  ,47,51659.97,Sales,2019-08-11,Boston,,fatima.sharma@company.com
+103,Carlos Kim,44,98677.6,Operations,03/15/2020,Chicago,1.2,carlos.kim@company.com
+137,  AISHA PETROV  ,30,80614.74,  Marketing,03/15/2020,CHICAGO,6.8,aisha.petrov@company.com
+133,Ingrid Hussain,54,105133.95,IT ,03/15/2020,Phoenix,5.1,ingrid.hussain@company.com
+44,Carlos Tanaka,23,56292.3,Marketing,not available,Seattle,4.1,carlos.tanaka@company.com
+123,Ravi Wang,27,30466.33,IT ,2021.06.10,New York,9.2,ravi.wang@company.com
+23,Grace Ali,38,64428.76,HR,03/15/2020,Phoenix,1.2,grace.ali@company.com
+18,Zara Lee,27,49183.89,Operations,03/15/2020,Seattle,8.5,zara.lee@company.com
+128,Emma Hussain,53,92126.13,HR,not available,,,emma.hussain@company.com
+58,Ravi Larsen,45,,Marketing,2019-04-19,Boston,-1.0,ravi.larsen@company.com
+24,Kenji Chen,38,65971.05,Marketing,2019-05-15,Chicago,6.4,kenji.chen@company.com
+87,Ravi Novak,24,35932.07,sales,2022-12-28,,8.9,
+97,Ahmed Wang,23,118293.55,Operations,2022-04-24,Chicago,7.9,ahmed.wang@company.com
+59,Fatima Kim,31,111308.17,Sales,03/15/2020,Phoenix,999.0,fatima.kim@company.com
+88,Carlos Rossi,40,41605.65,  Marketing,2022-03-22,Miami,-1.0,carlos.rossi@company.com
+145,Ahmed Chen,44,80850.2,Marketing,not available,Miami,-1.0,
+46,Diego Hussain,49,107415.0,Sales,2021.06.10,Chicago,2.4,diego.hussain@company.com
+36,Ingrid Sharma,43,100310.97,HR,03/15/2020,Houston,5.3,ingrid.sharma@company.com
+135,Priya Garcia,53,999999.0,Operations,,Phoenix,4.7,
+51,Ravi Patel,27,67048.06,sales,2021.06.10,new york,3.9,ravi.patel@company.com
+77,Wei Garcia,22,49361.96,Operations,2021.06.10,,6.4,wei.garcia@company.com
+35,Carlos Kim,32,64119.35,Operations,not available,new york,8.5,
+78,Zara Sharma,26,0.0,IT ,,Chicago,4.1,zara.sharma@company.com
+136,Sam Johnson,48,34219.57,  Marketing,2021.06.10,Boston,,sam.johnson@company.com
+20,Kenji Fernandez,52,38306.86,Sales,2021.06.10,Houston,,kenji.fernandez@company.com
+144,Ingrid Petrov,22,102555.09,Marketing,,Miami,3.3,ingrid.petrov@company.com
+84,Zara Patel,41,36145.76,Finance,2021.06.10,Seattle,5.1,zara.patel@company.com
+11,Ahmed Rossi,49,40890.38,Operations,,Phoenix,-1.0,
+12,Wei Sharma,42,51420.42,  Marketing,03/15/2020,Seattle,8.3,
+127,Aisha Smith,37,70206.2,Finance,2022-11-12,Phoenix,1.6,aisha.smith@company.com
+142,Mei Kim,31,45233.91,  Marketing,2019-01-26,New York,7.9,mei.kim@company.com
+89,Sofia Smith,44,115605.24,HR,2021.06.10,Chicago,,sofia.smith@company.com
+10,Wei Wang,25,41555.23,IT,03/15/2020,Miami,7.8,wei.wang@company.com
+83,Aisha Khan,30,45614.91,IT,,Seattle,999.0,aisha.khan@company.com
+99,Priya Patel,40,119021.04,Sales,2019-04-19,CHICAGO,3.5,priya.patel@company.com
+30,  DIEGO KIM  ,24,112572.3,IT,2021.06.10,Seattle,,diego.kim@company.com
+40,Wei Tanaka,49,81286.47,Sales,03/15/2020,CHICAGO,8.2,wei.tanaka@company.com
+112,Zara Brown,36,114037.64,IT,2021.06.10,Seattle,1.2,zara.brown@company.com
+125,Ravi Petrov,50,77188.67,IT ,03/15/2020,Seattle,6.8,
+121,  KENJI PETROV  ,28,64172.48,IT,2019-05-11,CHICAGO,-1.0,kenji.petrov@company.com
+138,Wei Larsen,33,63945.12,HR,2021.06.10,new york,9.6,wei.larsen@company.com
+60,Emma Johnson,-5,108375.56,IT,not available,new york,7.0,emma.johnson@company.com
+140,Mei Kim,27,98546.61,Operations,03/15/2020,Houston,,mei.kim@company.com
+45,Mei Khan,25,36667.4,IT,,Boston,999.0,mei.khan@company.com
+37,Liam Kim,37,84530.34,Finance,,Boston,4.6,
+122,Mei Muller,33,113972.15,Marketing,,Phoenix,6.7,mei.muller@company.com
+147,Kenji Larsen,57,46141.91,HR,03/15/2020,,3.2,kenji.larsen@company.com
+53,Mei Khan,0,101938.24,  Marketing,03/15/2020,Chicago,5.2,mei.khan@company.com
+99,Priya Patel,40,119021.04,Sales,2019-04-19,CHICAGO,3.5,priya.patel@company.com
+62,Olga Petrov,22,,IT ,2021.06.10,Phoenix,999.0,olga.petrov@company.com
+49,Olga Hussain,38,,Sales,2019-07-20,Chicago,-1.0,olga.hussain@company.com
+31,Ingrid Kim,31,70506.28,  Marketing,2019-08-17,new york,3.1,ingrid.kim@company.com
+110,Olga Wang,36,56769.05,IT,03/15/2020,CHICAGO,6.5,olga.wang@company.com
+14,Kenji Kim,36,102722.0,  Marketing,not available,Seattle,5.3,kenji.kim@company.com
+56,Ravi Muller,36,51020.62,Operations,2022-07-22,Houston,5.5,ravi.muller@company.com
+76,Grace Larsen,60,32362.84,IT,2019-05-19,Houston,999.0,grace.larsen@company.com
+116,Ravi Wang,54,84563.45,Operations,2021.06.10,,,ravi.wang@company.com
+104,Ahmed Larsen,28,-20000.0,Finance,2019-08-16,Seattle,2.6,ahmed.larsen@company.com
+33,Sam Smith,57,30530.65,sales,,,9.1,sam.smith@company.com
+81,Grace Petrov,28,-20000.0,IT ,2019-06-12,Phoenix,4.9,grace.petrov@company.com
+17,Zara Sharma,60,89163.58,HR,03/15/2020,new york,5.1,
+92,Zara Garcia,37,108670.53,Marketing,not available,Miami,2.3,
+100,Ahmed Kim,45,74658.29,  Marketing,2019-05-12,Boston,6.4,ahmed.kim@company.com
+101,Ravi Khan,26,57584.63,IT ,2021.06.10,,10.0,ravi.khan@company.com
+75,Grace Sharma,39,61648.16,IT ,,CHICAGO,2.0,grace.sharma@company.com
+86,Priya Kim,27,75409.41,HR,,Houston,4.3,priya.kim@company.com
+2,Ingrid Brown,150,55037.16,sales,2021.06.10,Chicago,1.8,ingrid.brown@company.com
+57,Sam Patel,27,77335.6,IT,2021.06.10,CHICAGO,6.6,sam.patel@company.com
+47,Emma Smith,150,72292.12,Finance,03/15/2020,new york,-1.0,emma.smith@company.com
+114,Ahmed Rossi,23,81325.35,  Marketing,not available,Miami,999.0,ahmed.rossi@company.com
+72,  NOAH CHEN  ,150,43350.04,  Marketing,2021.06.10,Seattle,5.5,
+113,Aisha Muller,58,0.0,IT ,2019-05-27,Boston,2.2,aisha.muller@company.com
+57,Sam Patel,27,77335.6,IT,2021.06.10,CHICAGO,6.6,sam.patel@company.com
+129,Ingrid Muller,0,108582.16,IT ,2019-09-21,New York,,ingrid.muller@company.com
+64,Sofia Fernandez,53,53127.31,Operations,03/15/2020,Boston,,sofia.fernandez@company.com
+19,Diego Smith,56,114503.7,Marketing,2021.06.10,,2.9,diego.smith@company.com
+106,Ingrid Lee,44,41679.41,Finance,not available,,1.7,ingrid.lee@company.com
+65,Ahmed Smith,37,999999.0,sales,not available,New York,,ahmed.smith@company.com
+132,Wei Wang,23,46198.32,Operations,2019-07-24,Miami,2.2,wei.wang@company.com
+55,Kenji Brown,42,103849.45,IT ,2021.06.10,CHICAGO,,kenji.brown@company.com
+149,Ahmed Patel,22,100519.33,HR,03/15/2020,,6.9,ahmed.patel@company.com
+29,Wei Kim,0,47499.17,sales,2019-04-14,Chicago,8.0,wei.kim@company.com
+117,Sam Petrov,51,59811.56,Finance,,,3.0,sam.petrov@company.com
+79,Sam Wang,54,0.0,Sales,03/15/2020,new york,3.6,
+17,Zara Sharma,60,89163.58,HR,03/15/2020,new york,5.1,
+50,Sam Lee,22,81862.23,  Marketing,not available,Seattle,9.7,sam.lee@company.com
+95,Fatima Petrov,36,0.0,IT ,,New York,999.0,fatima.petrov@company.com
+21,Ingrid Smith,28,999999.0,  Marketing,2021.06.10,CHICAGO,9.1,ingrid.smith@company.com
+38,Aisha Khan,0,102497.52,  Marketing,2022-02-17,CHICAGO,1.1,aisha.khan@company.com
+80,Grace Johnson,29,93330.41,sales,2019-01-23,CHICAGO,999.0,grace.johnson@company.com
+124,Aisha Larsen,23,109402.05,sales,2021.06.10,New York,999.0,aisha.larsen@company.com
+34,Grace Wang,22,90198.63,IT ,,,7.0,grace.wang@company.com
+8,John Khan,55,40039.7,IT ,03/15/2020,Miami,-1.0,john.khan@company.com
+63,Carlos Khan,23,33002.81,Marketing,03/15/2020,Phoenix,,carlos.khan@company.com
+45,Mei Khan,25,36667.4,IT,,Boston,999.0,mei.khan@company.com
+98,Sofia Larsen,42,104734.53,IT,not available,New York,3.6,sofia.larsen@company.com
+111,Ravi Rossi,46,76348.21,HR,03/15/2020,Houston,1.9,ravi.rossi@company.com
+105,Ravi Rossi,25,56132.61,IT,03/15/2020,Houston,3.1,
+70,Ingrid Tanaka,32,41862.29,Operations,03/15/2020,Boston,5.7,ingrid.tanaka@company.com
+91,Noah Ali,55,116903.7,Operations,not available,Miami,5.7,noah.ali@company.com
+130,Ingrid Garcia,31,-20000.0,IT ,2019-02-26,Seattle,2.2,ingrid.garcia@company.com
+61,Ingrid Johnson,25,118888.65,Finance,not available,Chicago,999.0,ingrid.johnson@company.com
+3,Sofia Novak,37,78260.53,  Marketing,2022-10-07,Chicago,1.4,sofia.novak@company.com
+67,Noah Rossi,150,96804.21,Marketing,2022-05-02,CHICAGO,3.0,noah.rossi@company.com
+82,Ahmed Petrov,42,100120.61,Marketing,2021.06.10,CHICAGO,-1.0,ahmed.petrov@company.com
+27,Ahmed Johnson,60,66546.77,Finance,2022-10-20,CHICAGO,5.2,ahmed.johnson@company.com
+143,  AISHA CHEN  ,30,75515.96,IT ,,Boston,,aisha.chen@company.com
+94,Carlos Garcia,23,92646.48,IT ,03/15/2020,Houston,999.0,carlos.garcia@company.com
+120,Kenji Novak,51,55110.58,Finance,not available,CHICAGO,,kenji.novak@company.com
+150,Olga Ali,25,43879.89,Operations,2021.06.10,Seattle,4.2,olga.ali@company.com
+139,Liam Khan,-5,93339.17,  Marketing,,CHICAGO,3.8,liam.khan@company.com
+108,Aisha Rossi,54,52554.48,Finance,03/15/2020,,9.5,aisha.rossi@company.com
+148,Ingrid Patel,45,101144.83,Operations,2019-01-13,CHICAGO,999.0,ingrid.patel@company.com
+22,Liam Ali,27,0.0,IT,2019-04-15,Houston,7.6,liam.ali@company.com
+1,Fatima Smith,38,42558.41,Marketing,03/15/2020,Phoenix,5.5,fatima.smith@company.com
+132,Wei Wang,23,46198.32,Operations,2019-07-24,Miami,2.2,wei.wang@company.com
+76,  GRACE LARSEN  ,60,32362.84,IT,2019-05-19,Houston,999.0,grace.larsen@company.com
+107,Noah Kim,54,109016.41,sales,03/15/2020,new york,2.5,noah.kim@company.com
